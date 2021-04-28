@@ -1,5 +1,4 @@
 # Welcome to my homepage.
-Here I will be writing my notes.
 
 **Here I will be writing my notes for Code 401..**
 
