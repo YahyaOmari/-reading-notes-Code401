@@ -4,5 +4,7 @@
 
 # Code 401 Reading Notes:
 
+[1/5/2020 Big O Notation ](Read01.md)
+
 
 #### reading-notes-Code401
