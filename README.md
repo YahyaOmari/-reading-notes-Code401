@@ -8,5 +8,7 @@
 
 [2/5/2020 Recursion](Read02.md)
 
+[3/5/2020 FileIO & Exceptions](Read03.md)
+
 
 #### reading-notes-Code401
