@@ -10,5 +10,29 @@
 
 [3/5/2020 FileIO & Exceptions](Read03.md)
 
+[4/5/2020 Classes and Objects](Read0d.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
+[](Read03.md)
+
 
 #### reading-notes-Code401
