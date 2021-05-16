@@ -16,7 +16,7 @@
 
 [8/5/2021 Random Module](Read06.md)
 
-[](Read03.md)
+[16/5/2021 Python Scopes](Read07.md)
 
 [](Read03.md)
 
