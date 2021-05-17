@@ -18,7 +18,7 @@
 
 [16/5/2021 Python Scopes](Read07.md)
 
-[](Read03.md)
+[17/5/2021 List Comprehensions](Read08.md)
 
 [](Read03.md)
 
