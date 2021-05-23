@@ -3,8 +3,8 @@
 **Here I will be writing my notes for Code 401..**
 
 # Code 401 Reading Notes:
-<!-- LIVE URL: -->
- <!-- https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
+<!-- LIVE URL:
+https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 [1/5/2021 Big O Notation ](Read01.md)
 
 [2/5/2021 Recursion](Read02.md)
@@ -27,7 +27,7 @@
 
 [Numpy](Read11.md)
 
-[](Read03.md)
+[Pandas](Read12.md)
 
 [](Read03.md)
 
