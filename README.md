@@ -29,9 +29,10 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [Pandas](Read12.md)
 
-[](Read03.md)
+["Linear Regression"](Read13.md)
 
-[](Read03.md)
+["Data Visualization"](Read14.md)
+
 
 [](Read03.md)
 
