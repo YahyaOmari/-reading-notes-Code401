@@ -21,17 +21,17 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [17/5/2021 List Comprehensions](Read08.md)
 
-[Dunder Methods](Read09.md)
+[18/5/2021 Methods](Read09.md)
 
-[Stacks and Queues](Read10.md)
+[19/5/2021 Stacks and Queues](Read10.md)
 
-[Numpy](Read11.md)
+[20/5/2021 Numpy](Read11.md)
 
-[Pandas](Read12.md)
+[23/5/2021 Pandas](Read12.md)
 
-["Linear Regression"](Read13.md)
+[25/5/2021 Linear Regression](Read13.md)
 
-["Data Visualization"](Read14.md)
+[25/5/2021 Data Visualization](Read14.md)
 
 
 [](Read03.md)
