@@ -33,7 +33,27 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [25/5/2021 Data Visualization](Read14.md)
 
-[Trees](Read15.md)
+[27/5/2021 Trees](Read15.md)
+
+[29/5/2021 Introduction to Machine Learning](Read16.md)
+
+[](Read15.md)
+
+[](Read15.md)
+
+[](Read15.md)
+
+[](Read15.md)
+
+[](Read15.md)
+
+[](Read15.md)
+
+[](Read15.md)
+
+[](Read15.md)
+
+[](Read15.md)
 
 
 ## Reading-notes-Code401
