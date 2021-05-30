@@ -37,7 +37,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [29/5/2021 Introduction to Machine Learning](Read16.md)
 
-[](Read15.md)
+[30/5/2021 Web Scraping](Read17.md)
 
 [](Read15.md)
 
