@@ -41,7 +41,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [31/5/2021 Cryptography](Read18.md)
 
-[](Read15.md)
+[1/6/2021 Python Regular Expressions](Read19.md)
 
 [](Read15.md)
 
