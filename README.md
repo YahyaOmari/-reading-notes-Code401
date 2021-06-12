@@ -43,6 +43,8 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [1/6/2021 Python Regular Expressions](Read19.md)
 
+[12/6/2021 Intro to Django](Read20.md)
+
 [](Read15.md)
 
 [](Read15.md)
