@@ -45,11 +45,11 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [12/6/2021 Intro to Django](Read20.md)
 
-[](Read15.md)
+[13/6/2021 Django Models](Read21.md)
 
-[](Read15.md)
+[13/6/2021 Django CRUD and Forms](Read22.md)
 
-[](Read15.md)
+[13/6/2021 Django Custom User](Read23.md)
 
 [](Read15.md)
 
