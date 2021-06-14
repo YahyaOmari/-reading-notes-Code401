@@ -47,7 +47,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [13/6/2021 Django Models](Read21.md)
 
-[13/6/2021 Django CRUD and Forms](Read22.md)
+[14/6/2021 Django CRUD and Forms](Read22.md)
 
 [13/6/2021 Django Custom User](Read23.md)
 
