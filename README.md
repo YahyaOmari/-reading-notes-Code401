@@ -49,7 +49,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [14/6/2021 Django CRUD and Forms](Read22.md)
 
-[13/6/2021 Django Custom User](Read23.md)
+[15/6/2021 Django Custom User](Read23.md)
 
 [](Read15.md)
 
