@@ -51,7 +51,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [15/6/2021 Django Custom User](Read23.md)
 
-[](Read15.md)
+[16/6/2021 Hash Tables](Read24.md)
 
 [](Read15.md)
 
