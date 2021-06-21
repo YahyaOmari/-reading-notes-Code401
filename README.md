@@ -55,7 +55,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [18/6/2021 Django REST Framework & Docker](Read25.md)
 
-[](Read15.md)
+[21/6/2021 Permissions & Postgresql](Read26.md)
 
 
 ## Reading-notes-Code401
