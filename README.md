@@ -57,5 +57,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [21/6/2021 Permissions & Postgresql](Read26.md)
 
+[22/6/2021 Authentication & Production Server](Read27.md)
+
 
 ## Reading-notes-Code401
