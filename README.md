@@ -59,5 +59,11 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [22/6/2021 Authentication & Production Server](Read27.md)
 
+[23/6/2021 API Deployment](Read28.md)
+
+[24/6/2021 Graphs](Read29.md)
+
+[26/6/2021 DSA Review](Read30.md)
+
 
 ## Reading-notes-Code401
