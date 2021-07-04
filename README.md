@@ -73,5 +73,7 @@ https://yahyaomari.github.io/Code401-AdvancedSoftwareDevelopment/ -->
 
 [3/7/2021 React 4](Read34.md)
 
+[4/7/2021 Pythonisms](Read35.md)
+
 
 ## Reading-notes-Code401
